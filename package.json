@@ -5,7 +5,5 @@
   "private": true,
   "dependencies": {
     "express": "3.x"
-  }
-  
-  //comments from github SC
+  }  
 }
